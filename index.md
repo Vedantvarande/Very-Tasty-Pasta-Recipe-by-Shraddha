@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+Hii I'm Shraddha Today I'm  going to share a very tasty recipe with you to cook it's my mother's one of special dish she cooks it's Pasta i like pasta much even i think you like pasta too much. It's easy recipe so let's begin.
 
-You can use the [editor on GitHub](https://github.com/ShraddhaVerma3536/Very-Tasty-Pasta-Recipe-by-Shraddha/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+               Ingrendients
+               
+Pasta - According to you
+onion-According to you
+potato - According to you
+Smith & Jones Pasta Masala - 1 packet
+Jeera - According to you
+salt - According to you
+Peanuts - According to you
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+                Cooking Method
+                
+ Boil potato in water till it becomes soft and then take it out and peel it also cut it according of your choice.
+Boil Pasta also for few time in water and then rinse it .
+Cut onions now for pasta and fry some peanuts as it will make it taste more good.
 
-```markdown
-Syntax highlighted code block
+PROCESSING :--
 
-# Header 1
-## Header 2
-### Header 3
+Now put some Refined oil in kadhai and left till it becomes hot
+and then put pasta,potato,onions together and make it flip without
+stopping for few minutes and then add jeera to it  and again flip 
+for few time and then add smith & jones pasta masala to it and stir
+it well after few time you will find it little red now put salt in it
+and again stir it now put it in your plate and add coriander and
+ peanuts to make it more yummy or if you want to add tomatoes you could while putting pasta in karahi.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShraddhaVerma3536/Very-Tasty-Pasta-Recipe-by-Shraddha/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  *************Enjoy your pasta hope you liked it :  ) ******************************
